@@ -1,0 +1,31 @@
+nav{
+    height: 50px;
+}
+#navigation{
+    padding:10px;
+    display:inline-block;
+    padding:50px;
+}
+
+.container{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+.image > img {
+    width:500px;
+    transform:rotate(90deg);
+}
+.FlexChild{
+    padding:5px;
+    margin:50px;
+    width:500px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.images > a img{
+    width: 45px;
+    padding: 2px;
+}
+

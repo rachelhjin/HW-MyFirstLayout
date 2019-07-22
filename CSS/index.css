@@ -10,8 +10,8 @@ nav{
 }
 
 .image > img {
-    width:500px;
-    transform:rotate(90deg);
+    width:400px;
+    padding:30px;
 }
 
 body{
@@ -32,11 +32,11 @@ footer{
 .FlexChild{
     padding:50px;
     display:inline-block;
-    align-content:center;
-    justify-content:space-around;
 }
 
 .about{
-    width:50%;
+    padding:50px;
+    width:45%;
+    align-content: center;
 }
 
